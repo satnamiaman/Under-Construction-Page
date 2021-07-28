@@ -1,4 +1,4 @@
-#Site Deployment for <link src="https://www.flazing.com"/>Flazig
+# Site Deployment for https://www.flazing.com
 
 # Under Construction Template
 > A simple, minimalistic & cross-device compatible landing page for when your website is in production
